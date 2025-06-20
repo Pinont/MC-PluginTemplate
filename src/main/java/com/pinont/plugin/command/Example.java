@@ -13,12 +13,12 @@ import java.util.List;
 public class Example implements SimpleCommand {
     @Override
     public String getName() { // Command name
-        return "";
+        return "Example";
     }
 
     @Override
     public String description() { // Command description
-        return "";
+        return "This is an example command.";
     }
 
     @Override
