@@ -1,0 +1,4 @@
+name: ExamplePlugin
+version: '1.0-SNAPSHOT'
+main: com.pinont.plugin.Plugin
+api-version: '1.21'
